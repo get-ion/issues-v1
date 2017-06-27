@@ -34,4 +34,6 @@ _ion_ consists of many different sub-projects. The main ones are:
 
 [middleware](https://github.com/get-ion/middleware) repository contains different kind of (minor) _ion_ handlers.
 
+### ion-bot
 
+[bot](https://github.com/get-ion/bot) repository contains the (chat) bot services that ion uses to achieve automated support for the new developers.
